@@ -8,4 +8,5 @@ Python is a widely used high-level programming language for general-purpose prog
 As previously told in the First Module, our **Robotics Club** is promoting **_SELF LEARNING_**. So you guys might have understood what to do now...
 
 Use these resources to learn Python. This is the most important & essential step in this whole Training-2024 Program. So learning python is mandatory.
+
 [Python Tutorials]{https://drive.google.com/drive/folders/1jtjr57yXD_PuWvI4ahnI7_FGN5IFZRsg?usp=sharing}
