@@ -10,3 +10,5 @@ As previously told in the First Module, our **Robotics Club** is promoting **_SE
 This is the most important & essential step in this whole Training-2024 Program. So learning python is mandatory. Use these resources taht we have curated for you to learn Python.
 
 - [Python Tutorials](https://drive.google.com/drive/folders/1jtjr57yXD_PuWvI4ahnI7_FGN5IFZRsg?usp=sharing)
+
+You can ask your doubts to the assignned mentors.
