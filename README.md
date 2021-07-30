@@ -1,7 +1,7 @@
 # Learn-0.2
 ## Python
 
-You  guys might've finished the previous module i.e, Learn-0.1(https://github.com/Training-2024/Learn-0.1). Now we're going to discuss about the most widely used programming language that can be used in every technical domain stating some of them, Artificial Intelligentce, Machine Learning, Data Science, Ethical Hacking if I state everything then it'll take another repo for explaining the applications only . Let us get into the topic now.
+You  guys might've finished the previous module i.e, [Learn-0.1](https://github.com/Training-2024/Learn-0.1). Now we're going to discuss about the most widely used programming language that can be used in every technical domain stating some of them, Artificial Intelligentce, Machine Learning, Data Science, Ethical Hacking if I state everything then it'll take another repo for explaining the applications only . Let us get into the topic now.
 
 Python is a widely used high-level programming language for general-purpose programming, created by Guido van Rossum and first released in 1991. Python features a dynamic type system and automatic memory management and supports multiple programming paradigms, including object-oriented, imperative, functional programming, and procedural styles. It has a large and comprehensive standard library.
 
