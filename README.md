@@ -11,4 +11,4 @@ This is the most important & essential step in this whole Training-2024 Program.
 
 - [Python Tutorials](https://github.com/Training-2024/Learn-0.2/tree/main/python_tutorials)
 
-You can ask your doubts to the assignned mentors.
+You can ask your doubts to the assigned mentors.
