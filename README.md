@@ -14,7 +14,7 @@ This is the most important & essential step in this whole Training-2024 Program.
 You can ask your doubts to the assigned mentors.
 <hr/>
 <h2>Task Description</h2>
-
+- [Task files](https://github.com/Training-2024/Learn-0.2/tree/main/task1)
 <h2><a class="header" href="#aim" id="aim">Aim</a></h2>
 <p>You are TA (Teaching Assistant) under a Professor in an academic institution. The end semester exams have been conducted for 5 subjects. Now the crucial task of gathering the data is to be done.</p>
 <p>Professor has given you a CSV file with 6 columns, where the first column contains the name of student and the subsequent 5 columns contain the marks of that particular student gained in 5 subjects.</p>
@@ -50,9 +50,9 @@ You can ask your doubts to the assigned mentors.
 </ul>
 <hr />
 <h2><a class="header" href="#given" id="given">Given</a></h2>
-<p>Two files are provided to solve this assigment.</p>
+<p>Two files are provided to solve this task.</p>
 <ul>
-<li>Skeleton program file: <strong><code>Task1.py</code></strong>
+<li>Skeleton program file: <strong><code>task1.py</code></strong>
 <ul>
 <li>The skeleton consists of three functions which you have to modify:
 <ul>
@@ -62,7 +62,7 @@ You can ask your doubts to the assigned mentors.
 </li>
 </ul>
 </li>
-<li>Sample CSV file: <strong><code>Task1_sample.csv</code></strong>
+<li>Sample CSV file: <strong><code>task1_sample.csv</code></strong>
 <ul>
 <li>The CSV file has 6 columns: <strong><code>name</code></strong>, <strong><code>subject_1</code></strong>, <strong><code>subject_2</code></strong>, <strong><code>subject_3</code></strong>, <strong><code>subject_4</code></strong> and <strong><code>subject_5</code></strong>.</li>
 </ul>
@@ -72,7 +72,7 @@ You can ask your doubts to the assigned mentors.
 <h2><a class="header" href="#procedure" id="procedure">Procedure</a></h2>
 <ul>
 <li>
-<p>Open the skeleton program file, <strong><code>Task1.py</code></strong>.</p>
+<p>Open the skeleton program file, <strong><code>task1.py</code></strong>.</p>
 </li>
 <li>
 <p>You will notice pre-written comments included in skeleton program for your assistance to solve this task.</p>
@@ -105,7 +105,7 @@ You can ask your doubts to the assigned mentors.
 <h2><a class="header" href="#expected-output" id="expected-output">Expected Output</a></h2>
 <ul>
 <li>
-<p>The provided sample CSV file, <strong><code>Task1_sample.csv</code></strong> consists data with fields <em><strong>name</strong></em>, <em><strong>subject_1</strong></em>, <em><strong>subject_2</strong></em>, <em><strong>subject_3</strong></em>, <em><strong>subject_4</strong></em> and <em><strong>subject_5</strong></em>.</p>
+<p>The provided sample CSV file, <strong><code>task1_sample.csv</code></strong> consists data with fields <em><strong>name</strong></em>, <em><strong>subject_1</strong></em>, <em><strong>subject_2</strong></em>, <em><strong>subject_3</strong></em>, <em><strong>subject_4</strong></em> and <em><strong>subject_5</strong></em>.</p>
 </li>
 <li>
 <p>The content of this CSV file is shown below:</p>
@@ -123,7 +123,7 @@ Rex Aspinell,34,75,51,38,99
 </code></pre>
 </li>
 <li>
-<p>The expected output of program <strong><code>Task1.py</code></strong> i.e., to generate the Grade Card for each student is shown below:</p>
+<p>The expected output of program <strong><code>task1.py</code></strong> i.e., to generate the Grade Card for each student is shown below:</p>
 <pre><code class="language-python">
 {
 	  'Artus Syne': {'marks': [43.0, 71.0, 55.0, 16.0, 51.0]},
