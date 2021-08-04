@@ -14,7 +14,9 @@ This is the most important & essential step in this whole Training-2024 Program.
 You can ask your doubts to the assigned mentors.
 <hr/>
 <h2>Task Description</h2>
-- [Task files](https://github.com/Training-2024/Learn-0.2/tree/main/task1)
+<li>
+<a href='https://github.com/Training-2024/Learn-0.2/tree/main/task1'>Task files</a>
+</li>
 <h2><a class="header" href="#aim" id="aim">Aim</a></h2>
 <p>You are TA (Teaching Assistant) under a Professor in an academic institution. The end semester exams have been conducted for 5 subjects. Now the crucial task of gathering the data is to be done.</p>
 <p>Professor has given you a CSV file with 6 columns, where the first column contains the name of student and the subsequent 5 columns contain the marks of that particular student gained in 5 subjects.</p>
