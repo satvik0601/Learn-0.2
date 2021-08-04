@@ -1,7 +1,3 @@
-
-# No other modules apart from 'csv' need to be imported
-
-
 # Import required module/s
 import csv
 
@@ -20,7 +16,7 @@ def readMarkSheet(file_name):
 	
 	Example
 	-------
-	>>> csv_file_name = 'Task1_sample.csv'
+	>>> csv_file_name = 'task1_sample.csv'
 	>>> print( readMarkSheet( csv_file_name ) )
 	{
 		'Artus Syne': {'marks': [43.0, 71.0, 55.0, 16.0, 51.0]}, 'Evey Reburn': {'marks': [49.0, 7.0, 53.0, 50.0, 63.0]}, 
@@ -96,7 +92,7 @@ def generateGradeCard(mapping_dict):
 if __name__ == "__main__":
 	"""Main function, code begins here.
 	"""
-	csv_file_name = 'Task1_sample.csv'
+	csv_file_name = 'task1_sample.csv'
 	name_marks_mapping = readMarkSheet(csv_file_name)
 	print(name_marks_mapping)
 	grade_card = generateGradeCard(name_marks_mapping)
